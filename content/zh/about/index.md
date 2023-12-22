@@ -4,7 +4,7 @@ linkTitle: 关于我们
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="关于我们" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="关于CloudRuntime" image_anchor="bottom" height="auto" %}}
 
 服务于云上应用的轻量级运行时。
 {.mt-5}

@@ -11,7 +11,7 @@ enableMissingTranslationPlaceholders = true
 enableRobotsTXT = true
 
 # Will give values to .Lastmod etc.
-enableGitInfo = true
+enableGitInfo = false
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
@@ -66,7 +66,7 @@ time_format_default = "2006.01.02"
 time_format_blog = "2006.01.02"
 
 [languages.zh-cn]
-languageName ="Chinese"
+languageName ="中文"
 contentDir = "content/zh"
 # Weight used for sorting.
 weight = 1
